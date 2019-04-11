@@ -4,7 +4,7 @@
   "license": "MIT",
   "main": "./dist/angular-google-maps.js",
   "dependencies": {
-    "angular": "1.2 - 1.6",
+    "angular": "1.2 - 1.7.8",
     "angular-simple-logger": ">=0.0.1",
     "lodash": "3.X - 4.X",
     "markerclustererplus": "^2.1.4",
